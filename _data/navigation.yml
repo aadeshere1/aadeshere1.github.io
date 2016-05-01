@@ -1,0 +1,14 @@
+- title: home
+  url: /
+
+- title: about
+  url: /me
+
+- title: contact
+  url: mailto:micahcowell99@gmail.com
+
+- title: github
+  url: https://github.com/getmicah
+
+- title: twitter
+  url: https://twitter.com/getmicah
