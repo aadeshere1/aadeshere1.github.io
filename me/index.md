@@ -2,19 +2,13 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I'm 17 years old living in Washington state. I like the internet, hip hop, and over-priced yo-yos. I make websites in the way I see most appealing and write code to put on Github.
+Hi, my name is Aadesh Shrestha. I am 21 years old. I like coding. My favorite things are laptop, internet, headphones and an empty room.
 
 [//]: # # What is with the website url?
 [//]: # The url hac.im is just my name backwards.
 
 # What do you do?
-I write code.
-
-# Who are your favorite artists?
-I currently like Oshi, Anderson Paak, and Common.
+I write code and push it up on github.
 
 # What programming languages do you use?
-I like using Javascript and Sass when making websites but I also like Python and Haskell.
-
-# Which sports teams do you follow?
-I like following the Mariners but hate watching baseball. University of Washington football and basketball. Waiting for the Supersonics.
+I like Ruby. I'm currently learning Ruby on Rails.
