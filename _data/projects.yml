@@ -1,7 +1,3 @@
-- name: Fatso
-  category: theme
-  url: https://github.com/getmicah/fatso
-
-- name: Beam
-  category: theme
-  url: https://github.com/getmicah/beam
+- name: NasaSpaceAppChallenge
+  category: challenge
+  url: https://github.com/lakshmanbasnet/spaceapps2016
