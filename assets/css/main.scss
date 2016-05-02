@@ -1,8 +1,10 @@
 ---
 ---
 
-@import "reset";
-@import "config";
+@import "reset",
+        "config",
+        "syntax-highlighting"
+        ;
 
 body {
     color: $color-primary;

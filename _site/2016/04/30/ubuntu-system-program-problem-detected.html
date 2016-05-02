@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    
+        <title>Ubuntu system program problem detected</title>
+    
+
+    <meta name="description" content="just another blog">
+
+
+    <link rel="icon" href="/assets/img/favicon.png">
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="post">
+    <a class="post__back" href="/">&lt;-- back</a>
+    <h1 class="post__title">Ubuntu system program problem detected</h1>
+    <p class="post__date">April 30, 2016</p>
+    <div class="post__content"?>
+        <p>I had been getting “System program problem detected” error messages with no further info after upgrading my ubuntu to 15.10
+<img src="/assets/img/problem-detected.png" alt="system program problem detected" /></p>
+
+<p>It turns out that Ubuntu has an error reporting sytem called apport which tries to catch all program crashes in the background and report them to the developers.</p>
+
+<p>Quick fixture: <strong>Remove old crash-reports</strong>
+See all the old crash-reports in the crash-report directory</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>ls /var/crash
+</code></pre>
+</div>
+
+<p>Remove all old crash-reports that might exist in the crash-report directory:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo rm /var/crash/<span class="k">*</span>
+</code></pre>
+</div>
+
+    </div>
+</div>
+
+    </div>
+
+</body>
+
+</html>
