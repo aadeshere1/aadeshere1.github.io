@@ -11,6 +11,7 @@ I had been getting "System program problem detected" error messages with no furt
 It turns out that Ubuntu has an error reporting sytem called apport which tries to catch all program crashes in the background and report them to the developers.
 
 Quick fixture: **Remove old crash-reports**
+
 See all the old crash-reports in the crash-report directory
 
 ``` bash
