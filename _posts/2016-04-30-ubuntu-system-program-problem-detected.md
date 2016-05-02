@@ -24,3 +24,8 @@ Remove all old crash-reports that might exist in the crash-report directory:
 ``` bash
 sudo rm /var/crash/*
 ```
+The error messages will disappear on reboot. If you don't want to reboot, you can close all open popups with:
+
+``` bash
+killall system-crash-notification
+```
