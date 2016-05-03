@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu system program problem detected
+title: Ubuntu system program problem detected[Solved]
 date: 2016-04-30 01:42:30
 
 ---
