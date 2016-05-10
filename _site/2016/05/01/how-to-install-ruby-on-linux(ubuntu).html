@@ -1,55 +1,123 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     
-        <title>How to install Ruby on Linux</title>
+      <title>How to install Ruby on Linux</title>
     
 
     <meta name="description" content="just another blog">
 
-
-    <link rel="icon" href="/assets/img/favicon.png">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/assests/css/applications.css">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-77211589-1', 'auto');
+      ga('create', '', 'auto');
       ga('send', 'pageview');
-
     </script>
 
-</head>
+  </head>
+  <body>
+      <header id="main_navigation" class="clearfix">
+  <a href="#" class="name">Aadesh Shrestha</a>
+  <nav>
+    
+      <a href="/">home</a>
+    
+      <a href="/me">about</a>
+    
+      <a href="/articles">articles</a>
+    
+      <a href="/projects">projects</a>
+    
+  
+  </nav>
+</header>
 
-<body>
-
-    <div class="wrapper">
-        <div class="post">
-    <a class="post__back" href="/">&lt;-- back</a>
-    <h1 class="post__title">How to install Ruby on Linux</h1>
-    <p class="post__date">May 1, 2016</p>
-    <div class="post__content"?>
-        <p>Here i will be writing about how to install ruby on linux in a while</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">foo</span>
-  <span class="nb">puts</span> <span class="s1">'foo'</span>
-<span class="k">end</span></code></pre></figure>
 
 
-    </div>
+	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
+		<header>
+			<p class="date">May 1, 2016</p>
+			<h1>How to install Ruby on Linux</h1>
+			<hr>
+		</header>
+
+		<div id="content">
+			<p>We will be setting up Ruby development environment on Ubuntu 16.04.</p>
+
+<p>Since Ubuntu is one of the easiest linux distribution and is used by many people, we will start with it.</p>
+
+<h3 id="installing-ruby">Installing Ruby</h3>
+<p>Step 1: Install dependencies for Ruby</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">sudo apt update
+sudo apt install git-core curl zlib1g-dev build-essential
+libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3
+libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+libffi-dev</code></pre></figure>
+
+<p>We will use <code class="highlighter-rouge">rbenv</code> for setting up the environment. For this we will have to setup rbenv first.</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="nb">cd
+</span>git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+<span class="nb">echo</span> <span class="s1">'export PATH="$HOME/.rbenv/bin:$PATH"'</span> &gt;&gt; ~/.bashrc
+<span class="nb">echo</span> <span class="s1">'eval "$(rbenv init -)"'</span> &gt;&gt; ~/.bashrc
+<span class="nb">exec</span> <span class="nv">$SHELL</span>
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+<span class="nb">echo</span> <span class="s1">'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"'</span> &gt;&gt; ~/.bashrc
+<span class="nb">exec</span> <span class="nv">$SHELL</span>
+
+git clone https://github.com/rbenv/rbenv-gem-rehash.git ~/.rbenv/plugins/rbenv-gem-rehash
+
+rbenv install 2.3.0
+rbenv global 2.3.0
+ruby -v
+</code></pre>
 </div>
 
-    </div>
+<p>Then we need to install the bundler which is basically a ruby gem.</p>
 
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>gem install bundler
+</code></pre>
+</div>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>rbenv rehash
+</code></pre>
+</div>
+
+<p>Now, run <code class="highlighter-rouge">which ruby</code> in the terminal to check whether ruby has been installed or not. If ruby is successfully installed then, <code class="highlighter-rouge">/home/{username}/.rbenv/shims/ruby</code> will be returned.</p>
+
+		</div>
+		<hr>
+<!--
+		<div id="share_box">
+			<p>Share The Do List</p>
+			<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000//2016/05/01/how-to-install-ruby-on-linux(ubuntu).html"><i class="fa fa-facebook"></i></a>
+			<a href="#"><i class="fa fa-twitter"></i></a>
+			<a href="#"><i class="fa fa-google"></i></a>
+		</div> -->
+
+		<!-- <hr> -->
+	</div>
+
+<footer id="main_footer">
+  <p class="copyright">&copy; 2015 Aadesh Shrestha</p>
+  <nav>
+    <a href="https://www.facebook.com/aadeshere1"><i class="fa fa-facebook"></i></a>
+    <a href="https://twitter.com/aadeshere1"><i class="fa fa-twitter"></i></a>
+    <a href="https://github.com/aadeshere1"><i class="fa fa-github"></i></a>
+  </nav>
+</footer>
 </body>
+</html>
 
+
+  </body>
 </html>

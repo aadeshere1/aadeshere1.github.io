@@ -2,11 +2,29 @@
 layout: default
 ---
 
-<div class="post">
-    <a class="post__back" href="/">&lt;-- back</a>
-    <h1 class="post__title">{{ page.title }}</h1>
-    <p class="post__date">{{ page.date | date: '%B %-d, %Y' }}</p>
-    <div class="post__content"?>
-        {{ content }}
-    </div>
-</div>
+{% include header.html %}
+
+
+	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
+		<header>
+			<p class="date">{{ page.date | date: '%B %-d, %Y' }}</p>
+			<h1>{{ page.title }}</h1>
+			<hr>
+		</header>
+
+		<div id="content">
+			{{ content }}
+		</div>
+		<hr>
+<!--
+		<div id="share_box">
+			<p>Share The Do List</p>
+			<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/{{ page.url }}"><i class="fa fa-facebook"></i></a>
+			<a href="#"><i class="fa fa-twitter"></i></a>
+			<a href="#"><i class="fa fa-google"></i></a>
+		</div> -->
+
+		<!-- <hr> -->
+	</div>
+
+{% include footer.html %}

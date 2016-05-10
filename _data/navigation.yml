@@ -4,11 +4,8 @@
 - title: about
   url: /me
 
-- title: contact
-  url: mailto:aadeshere1@gmail.com
+- title: articles
+  url: /articles
 
-- title: github
-  url: https://github.com/aadeshere1
-
-- title: twitter
-  url: https://twitter.com/aadeshere1
+- title: projects
+  url: /projects

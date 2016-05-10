@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 
     
-      <title>Page Does Not Exist...</title>
+      <title>Ubuntu system program problem detected[Solved]</title>
     
 
     <meta name="description" content="just another blog">
@@ -43,22 +43,39 @@
 
 	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
 		<header>
-			<p class="date"></p>
-			<h1>Page Does Not Exist...</h1>
+			<p class="date">April 30, 2016</p>
+			<h1>Ubuntu system program problem detected[Solved]</h1>
 			<hr>
 		</header>
 
 		<div id="content">
-			<p><a class="post__back" href="/">&lt;-- back</a></p>
-<br>
-<p>Sorry this page does not exist...</p>
+			<p>I had been getting “System program problem detected” error messages with no further info after upgrading my ubuntu to 15.10
+<img src="/assets/img/problem-detected.png" alt="system program problem detected" /></p>
+
+<p>It turns out that Ubuntu has an error reporting sytem called apport which tries to catch all program crashes in the background and report them to the developers.</p>
+
+<p>Quick fixture: <strong>Remove old crash-reports</strong></p>
+
+<p>See all the old crash-reports in the crash-report directory</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>ls /var/crash
+</code></pre>
+</div>
+
+<p>Remove all old crash-reports that might exist in the crash-report directory:</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>sudo rm /var/crash/<span class="k">*</span>
+</code></pre>
+</div>
+
+<p>The error messages will disappear on reboot.</p>
 
 		</div>
 		<hr>
 <!--
 		<div id="share_box">
 			<p>Share The Do List</p>
-			<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000//404.html"><i class="fa fa-facebook"></i></a>
+			<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000//ubuntu,/crash/report/2016/04/30/ubuntu-system-program-problem-detected.html"><i class="fa fa-facebook"></i></a>
 			<a href="#"><i class="fa fa-twitter"></i></a>
 			<a href="#"><i class="fa fa-google"></i></a>
 		</div> -->

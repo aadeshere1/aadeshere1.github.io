@@ -1,22 +1,14 @@
-# My variables
+#my variables
 name: Aadesh Shrestha
 description: just another blog
-# google_analytics: UA-39119359-12
-# google_verification: null
+google_analytics: UA-77211589-1
+# baseurl: "/example"
 
-
-# File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
 
-
-# Sass
+#css settings
 sass:
-  style: :compressed
+  styple: :compressed
   sass_dir: _sass
-
-
-# Markdown
+#Build settings
 markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
