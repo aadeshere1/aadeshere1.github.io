@@ -489,6 +489,9 @@ input[type="submit"], .button {
     border: 2px solid #8bc6db;
     color: #8bc6db; }
 
+img {
+  max-width: 760px; }
+
 .col-1, .col-2, .col-3 {
   float: left; }
 
