@@ -16,6 +16,15 @@ layout: default
 			{{ content }}
 		</div>
 		<hr>
+
+
+		<p>
+			<i>You might also like...</i> <br>
+
+		{% for post in site.posts %}
+			<a href="{{ post.url }}">{{ post.title }}</a><br>
+		{% endfor%}
+	</p>
 <!--
 		<div id="share_box">
 			<p>Share The Do List</p>
