@@ -5,6 +5,7 @@ google_analytics: UA-77211589-1
 # baseurl: "/example"
 
 include: [".htaccess"]
+gems: [jekyll-sitemap]
 
 #css settings
 sass:
