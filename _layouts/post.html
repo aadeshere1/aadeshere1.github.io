@@ -2,9 +2,6 @@
 layout: default
 ---
 
-{% include header.html %}
-
-
 	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
 		<header>
 			<p class="date">{{ page.date | date: '%B %-d, %Y' }}</p>
@@ -22,7 +19,9 @@ layout: default
 			<i>You might also like...</i> <br>
 
 		{% for post in site.posts %}
-			<a href="{{ post.url }}">{{ post.title }}</a><br>
+			{% if page.title != post.title %}
+				<a href="{{ post.url }}">{{ post.title }}</a><br>
+			{% endif %}
 		{% endfor%}
 	</p>
 <!--
@@ -35,5 +34,3 @@ layout: default
 
 		<!-- <hr> -->
 	</div>
-
-{% include footer.html %}

@@ -419,6 +419,12 @@ hr {
   border-top: 2px solid #8bc6db;
   margin: 2rem 0; }
 
+a {
+  text-decoration: none;
+  color: blue; }
+  a:visited {
+    color: blue; }
+
 #main_navigation {
   padding: 1.5em 5%;
   border-bottom: 1px solid #E9E9E9; }
@@ -492,6 +498,33 @@ input[type="submit"], .button {
 img {
   max-width: 760px; }
 
+@media (max-width: 480px) {
+  img {
+    max-width: 360px; } }
+@media (max-width: 760px) {
+  img {
+    max-width: 540px; }
+
+  #main_navigation {
+    padding: 1.5em 5%;
+    border-bottom: 1px solid #E9E9E9; }
+    #main_navigation .name {
+      font-weight: 700;
+      font-size: 1.5em;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      padding: 1rem;
+      text-decoration: none;
+      color: #424652;
+      float: left; }
+    #main_navigation nav {
+      float: left;
+      padding-top: 1.5rem; }
+      #main_navigation nav a {
+        color: #424652;
+        text-decoration: none;
+        margin: 0 1rem;
+        font-size: 1rem; } }
 .col-1, .col-2, .col-3 {
   float: left; }
 

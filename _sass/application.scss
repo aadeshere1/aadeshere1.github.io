@@ -5,6 +5,7 @@ $light: #9a9da4;
 $highlight: #8bc6db;
 $border: #E9E9E9;
 $white: #ffffff;
+$link: blue;
 * {
 	box-sizing: border-box;
 }
@@ -90,6 +91,14 @@ hr {
 	margin: 2rem 0;
 }
 
+a {
+	text-decoration: none;
+	color: $link;
+	&:visited {
+		color: $link;
+	}
+}
+
 #main_navigation {
 	padding: 1.5em 5%;
 	border-bottom: 1px solid $border;
@@ -116,6 +125,7 @@ hr {
 		}
 	}
 }
+
 
 
 #page_title {
@@ -181,6 +191,50 @@ input[type="submit"], .button {
 img {
 	max-width: 760px;
 }
+
+// min screen size
+@media (max-width: 480px) {
+	// body {
+	// 	background-color: black;
+	// }
+	img {
+		max-width: 360px;
+	}
+}
+
+@media (max-width: 760px) {
+	img {
+		max-width: 540px;
+	}
+	#main_navigation {
+		padding: 1.5em 5%;
+		border-bottom: 1px solid $border;
+
+		.name {
+			font-weight: 700;
+			font-size: 1.5em;
+			letter-spacing: 3px;
+			text-transform: uppercase;
+			// border: 2px solid $border;
+			padding: 1rem;
+			text-decoration: none;
+			color: $dark;
+			float: left;
+		}
+		nav {
+			float: left;
+			padding-top: 1.5rem;
+			a {
+				color: $dark;
+				text-decoration: none;
+				margin: 0 1rem;
+				font-size: 1rem;
+			}
+		}
+	}
+}
+
+
 @import
 		"welcome",
 		"post_project",

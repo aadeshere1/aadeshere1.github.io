@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    
+      <title>Free website using jekyll and free github hosting</title>
+    
+
+    <meta name="description" content="just another blog">
+
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="/assests/css/applications.css">
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-77211589-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+  </head>
+  <body>
+    <header id="main_navigation" class="clearfix">
+  <a href="#" class="name">Aadesh Shrestha</a>
+  <nav>
+    
+      <a href="/">home</a>
+    
+      <a href="/me">about</a>
+    
+      <a href="/articles">articles</a>
+    
+      <a href="/projects">projects</a>
+    
+  
+  </nav>
+</header>
+
+
+      	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
+		<header>
+			<p class="date">May 16, 2016</p>
+			<h1>Free website using jekyll and free github hosting</h1>
+			<hr>
+		</header>
+
+		<div id="content">
+			<p>In this lesson, we will learn how to get started with building a website with Jekyll, which is just a gem of Ruby. In other words, Jekyll is a simple static-site generator built in Ruby. It is a tool which lets you have all the cool features of a full-blown CMS without having to worry about managing a database.The benefit of using Jekyll is that hosting is extremely easy and scalable. You will be just managing bunch of files (in our case, we will be using github gh-pages).</p>
+
+<h2 id="system-requirements">System Requirements</h2>
+<ul>
+  <li><a href="/2016/05/01/how-to-install-ruby-on-linux(ubuntu).html">Ruby</a></li>
+  <li><a href="/jekyll/2016/05/15/How-to-install-jekyll.html">Jekyll</a></li>
+</ul>
+
+<h2 id="what-will-we-be-building">What will we be building</h2>
+<p>We will be building a clone of <a href="http://www.aadeshshrestha.me">this</a> site.</p>
+
+<h2 id="what-we-wont-be-doing">What we won’t be doing</h2>
+<p>We will not be styling the site.</p>
+
+<h2 id="structure-of-site">Structure of site</h2>
+<p><img src="/assests/img/jekyllblog/site_layout.png" alt="Site layout" /></p>
+
+<p>Before we dive into coding, I recommend you to checkout the awesome <a href="https://jekyllrb.com/docs/quickstart/">Jekyll documentation</a>.</p>
+
+<p>If you went through Jekyll documentation you will notice that to create a new project jekyll provides us a command</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>jekyll new ProjectName
+</code></pre>
+</div>
+
+<p>However, we will not be using this automatic project generation command. We will be setting up all of our files and folders ourself.</p>
+
+<h3 id="lets-get-started">Lets get started</h3>
+<p>First thing first, lets create a project destination, mygithubpage, and inside it create a configuration file.</p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>mkdir mygithubpage
+<span class="gp">$ </span><span class="nb">cd </span>mygithubpage
+<span class="gp">$ </span>touch _config.yml
+</code></pre>
+</div>
+<p>Add following lines in the <code class="highlighter-rouge">_config.yml</code> .</p>
+
+<div class="language-yml highlighter-rouge"><pre class="highlight"><code><span class="c1">#my variables</span>
+<span class="s">name</span><span class="pi">:</span> <span class="s">Jekyll website</span>
+<span class="s">description</span><span class="pi">:</span> <span class="s">Free website using jekyll and free github hosting</span>
+
+<span class="c1">#css settings</span>
+<span class="s">sass</span><span class="pi">:</span>
+  <span class="s">style</span><span class="pi">:</span> <span class="s">:compressed</span>
+  <span class="s">sass_dir</span><span class="pi">:</span> <span class="s">_sass</span>
+</code></pre>
+</div>
+
+<p>Here <code class="highlighter-rouge">name</code> is the name of your website and <code class="highlighter-rouge">description</code> is the description of your website. You can go to <a href="sass-lang.com/documentation/file.SASS_REFERENCE.html">sass-lang.com</a> if you want to learn more about sass.</p>
+
+<p>Lets create a directory <code class="highlighter-rouge">_data</code> in which we will store the data files needed for our site.
+<code class="highlighter-rouge">bash
+$ mkdir _data
+$ cd _data
+$ touch navigation.yml
+</code>
+For now we will just add our navigation links. We are setting the link name and url.</p>
+
+<div class="language-yml highlighter-rouge"><pre class="highlight"><code><span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">home</span>
+  <span class="s">url</span><span class="pi">:</span> <span class="s">/</span>
+
+<span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">about</span>
+  <span class="s">url</span><span class="pi">:</span> <span class="s">/me</span>
+
+<span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">articles</span>
+  <span class="s">url</span><span class="pi">:</span> <span class="s">/articles</span>
+
+<span class="pi">-</span> <span class="s">title</span><span class="pi">:</span> <span class="s">projects</span>
+  <span class="s">url</span><span class="pi">:</span> <span class="s">/projects</span>
+</code></pre>
+</div>
+
+		</div>
+		<hr>
+
+
+		<p>
+			<i>You might also like...</i> <br>
+
+		
+			
+		
+			
+				<a href="/jekyll/2016/05/15/How-to-install-jekyll.html">How to install Jekyll ?</a><br>
+			
+		
+			
+				<a href="/github/2016/05/02/How-to-register-for-GithubEducation-Pack.html">How to register for GithubEducation Pack ?</a><br>
+			
+		
+			
+				<a href="/2016/05/01/how-to-install-ruby-on-linux(ubuntu).html">How to install Ruby on Linux</a><br>
+			
+		
+			
+				<a href="/ubuntu/2016/04/30/ubuntu-system-program-problem-detected.html">Ubuntu system program problem detected[Solved]</a><br>
+			
+		
+	</p>
+<!--
+		<div id="share_box">
+			<p>Share The Do List</p>
+			<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000//github/2016/05/16/Free-website-using-jekyll-and-free-github-hosting.html"><i class="fa fa-facebook"></i></a>
+			<a href="#"><i class="fa fa-twitter"></i></a>
+			<a href="#"><i class="fa fa-google"></i></a>
+		</div> -->
+
+		<!-- <hr> -->
+	</div>
+
+
+    <footer id="main_footer">
+  <p class="copyright"> Proudly powered by <a href="https://www.jekyllrb.com/">Jekyll</a> and <a href="https://www.github.com">Github</a> &copy; 2015 Aadesh Shrestha</p>
+  <nav>
+    <a href="https://www.facebook.com/aadeshere1"><i class="fa fa-facebook"></i></a>
+    <a href="https://twitter.com/aadeshere1"><i class="fa fa-twitter"></i></a>
+    <a href="https://github.com/aadeshere1"><i class="fa fa-github"></i></a>
+  </nav>
+</footer>
+</body>
+</html>
+
+  </body>
+</html>
