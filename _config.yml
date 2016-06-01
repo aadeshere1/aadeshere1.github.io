@@ -2,7 +2,7 @@
 name: Aadesh Shrestha
 description: just another blog
 google_analytics: UA-77211589-1
-ulr: http://aadeshshrestha.me
+url: http://aadeshshrestha.me
 # baseurl: "/example"
 
 include: [".htaccess"]
