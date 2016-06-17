@@ -2,10 +2,8 @@ language: ruby
 rvm:
   - 2.1
 
-before_script:
-  - chmod +x ./script/cibuid
-
-script: ./script/cibuild
+install: gem install jekyll html-proofer
+script: jekyll build && htmlproofer ./_site
 
 branches:
   only:
