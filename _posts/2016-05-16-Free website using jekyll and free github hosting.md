@@ -1,9 +1,10 @@
 ---
 
+
+---
 title: Free website using jekyll and free github hosting
 date: 2016-05-16
 categories: github
----
 
 In this lesson, we will learn how to get started with building a website with Jekyll, which is just a gem of Ruby. In other words, Jekyll is a simple static-site generator built in Ruby. It is a tool which lets you have all the cool features of a full-blown CMS without having to worry about managing a database.The benefit of using Jekyll is that hosting is extremely easy and scalable. You will be just managing bunch of files (in our case, we will be using github gh-pages).
 
