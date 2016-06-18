@@ -267,4 +267,4 @@ I write code and push it up on github.
 I like Ruby. I'm currently learning Ruby on Rails.
 ```
 
-The site is now successfully completed. Congratulation on making the site from scratch. Feel free to shoot question if you have any at <a href="mailto:aadeshere1@gmail.com">aadeshere1@gmail.com</a>
+The site is now successfully completed. Congratulation on making the site from scratch. Feel free to shoot question if you have any at <a href="mailto:aadeshere1@gmail.com">aadeshere1@gmail.com</a>. We will continue about github hosting in another blog post.
