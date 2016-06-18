@@ -24,7 +24,7 @@
   </head>
   <body>
     <header id="main_navigation" class="clearfix">
-  <a href="#" class="name">Aadesh Shrestha</a>
+  <a href="/" class="name">Aadesh Shrestha</a>
   <nav>
     
       <a href="/">home</a>
@@ -35,7 +35,7 @@
     
       <a href="/projects">projects</a>
     
-  
+
   </nav>
 </header>
 
@@ -98,7 +98,22 @@
 
 <p>Here <code class="highlighter-rouge">name</code> is the name of your website and <code class="highlighter-rouge">description</code> is the description of your website. You can go to <a href="sass-lang.com/documentation/file.SASS_REFERENCE.html">sass-lang.com</a> if you want to learn more about sass.</p>
 
-<p>Lets create a directory <code class="highlighter-rouge">_data</code> in which we will store the data files needed for our site.</p>
+<p>Create a <code class="highlighter-rouge">Gemfile</code></p>
+
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>touch Gemfile
+</code></pre>
+</div>
+
+<p>and include the jekyll gem in it, which tells to include the jekyll gem and jekyll-sitemap gem. jekyll-sitemap gem is optional which is used for creating the sitemap of our site which will be used by search engines.</p>
+
+<div class="language-ruby highlighter-rouge"><pre class="highlight"><code><span class="n">source</span> <span class="s1">'https://rubygems.org'</span>
+<span class="n">gem</span> <span class="s1">'jekyll'</span>
+<span class="n">gem</span> <span class="s1">'jekyll-sitemap'</span>
+</code></pre>
+</div>
+
+<p>Open terminal and run <code class="highlighter-rouge">bundle install</code> in the main directory. It will install all the specified gems in Gemfile and creates a new file <code class="highlighter-rouge">Gemfile.lock</code>.
+Lets create a directory <code class="highlighter-rouge">_data</code> in which we will store the data files needed for our site.</p>
 
 <div class="language-bash highlighter-rouge"><pre class="highlight"><code><span class="gp">$ </span>mkdir _data
 <span class="gp">$ </span><span class="nb">cd </span>_data
@@ -181,9 +196,123 @@ Basically what we are doing here is that we are looping through each of our navi
 </code></pre>
 </div>
 
-<p>In the head section, by using <code class="highlighter-rouge">if page.title</code> we are checking if the page has title or not. If the title exists then display the title. If it doesn’t exist we display the name of site which we defined in our <code class="highlighter-rouge">_config.yml</code> file. <code class="highlighter-rouge">include header.html</code> and <code class="highlighter-rouge">include footer.html</code> will be replaced by the content of our <code class="highlighter-rouge">header.html</code> and <code class="highlighter-rouge">footer.html</code> respectively.  ` {{ content }}` will be replaced by the content of other pages that we will create.</p>
+<p>In the head section, by using <code class="highlighter-rouge">if page.title</code> we are checking if the page has title or not. If the title exists then display the title. If it doesn’t exist we display the name of site which we defined in our <code class="highlighter-rouge">_config.yml</code> file. <code class="highlighter-rouge">include header.html</code> and <code class="highlighter-rouge">include footer.html</code> will be replaced by the content of our <code class="highlighter-rouge">header.html</code> and <code class="highlighter-rouge">footer.html</code> respectively.  <code class="highlighter-rouge"><span class="p">{</span><span class="err">{</span><span class="w"> </span><span class="err">content</span><span class="w"> </span><span class="p">}</span><span class="err">}</span></code>  will be replaced by the content of other pages that we will create.</p>
 
 <p>So, this <code class="highlighter-rouge">default.html</code> is the main layout for our site.</p>
+
+<p>We will now create layout for our posts. Create a file <code class="highlighter-rouge">post.html</code> in <code class="highlighter-rouge">_layouts</code> directory. Include the code:</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code>
+---
+layout: default
+---
+
+	<span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"post_show_content"</span> <span class="na">class=</span><span class="s">"skinny_wrapper wrapper_padding"</span><span class="nt">&gt;</span>
+		<span class="nt">&lt;header&gt;</span>
+			<span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"date"</span><span class="nt">&gt;</span>{{ page.date | date: '%B %-d, %Y' }}<span class="nt">&lt;/p&gt;</span>
+			<span class="nt">&lt;h1&gt;</span>{{ page.title }}<span class="nt">&lt;/h1&gt;</span>
+			<span class="nt">&lt;hr&gt;</span>
+		<span class="nt">&lt;/header&gt;</span>
+
+		<span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"content"</span><span class="nt">&gt;</span>
+			{{ content }}
+		<span class="nt">&lt;/div&gt;</span>
+		<span class="nt">&lt;hr&gt;</span>
+
+
+		<span class="nt">&lt;p&gt;</span>
+		<span class="nt">&lt;i&gt;</span>You might also like...<span class="nt">&lt;/i&gt;</span> <span class="nt">&lt;br&gt;</span>
+
+		{% for post in site.posts %}
+			{% if page.title != post.title %}
+				<span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">"{{ post.url }}"</span><span class="nt">&gt;</span>{{ post.title }}<span class="nt">&lt;/a&gt;&lt;br&gt;</span>
+			{% endif %}
+		{% endfor%}
+  	<span class="nt">&lt;/p&gt;</span>
+	<span class="nt">&lt;/div&gt;</span>
+
+
+</code></pre>
+</div>
+
+<p><code class="highlighter-rouge">layout: default</code> tells jekyll to use default page as our layout for the <code class="highlighter-rouge">post</code>. This is known as the frontmatter. Let’s make another layout page for our about section. Create <code class="highlighter-rouge">about.html</code> in <code class="highlighter-rouge">_layouts</code> directory and include the following code:</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code>
+---
+layout: default
+---
+<span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"post_show_content"</span> <span class="na">class=</span><span class="s">"skinny_wrapper wrapper_padding"</span><span class="nt">&gt;</span>
+  {{ content }}
+<span class="nt">&lt;/div&gt;</span>
+
+
+</code></pre>
+</div>
+
+<p>We are using default layout for <code class="highlighter-rouge">about</code> section as well. Only our style will be different in about section. Now create a new directory <code class="highlighter-rouge">_posts</code> inside our project. <code class="highlighter-rouge">_posts</code> will contain all of our post in the website. The naming convention for the blog post in jekyll should be strictly followed. Name of the blog post should start with YYYY-MM-DD- followed by the name of the post. e.g.: <code class="highlighter-rouge">2016-05-01-Name-of-the-post.md</code>. File extension can be .md or .html . Before writing the post contents, frontmatter should be included.</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code>---
+layout: post
+title: Name of the post
+date: 2016-05-01
+categories: tutorial
+---
+</code></pre>
+</div>
+
+<p>This tells to use post layout as our layout for this post, set title of post as ‘Name of the post’, set creation date to ‘2016-05-01’, include this post in the category ‘tutorial’. The post will then be rendered by post layout and the post layout will again be rendered by our default layout.</p>
+
+<p>I’ve created <code class="highlighter-rouge">_sass</code> directory to include our stylesheets which will be in <code class="highlighter-rouge">.scss</code> extension. To learn about Sass-lang, head over to <a href="sass-lang.com/documentation/file.SASS_REFERENCE.html">sass-lang.com</a>. You can find stylesheets in <a href="github.com/aadeshere1">Github</a> if you’d like to use the styles that I’ve used in this blog.</p>
+
+<p>Create a <code class="highlighter-rouge">articles</code> directory and create a file <code class="highlighter-rouge">index.md</code> inside <code class="highlighter-rouge">articles</code>. In the <code class="highlighter-rouge">index.md</code>, include the following code</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>
+---
+layout: about
+---
+
+
+{% for post in site.posts %}
+  * {{ post.date | date: '%Y %b %d'}} &gt;&gt; [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+</code></pre>
+</div>
+<p>This will list out all the post that we have in our <code class="highlighter-rouge">_posts</code> directory.
+<code class="highlighter-rouge">assests</code> directory will be used to include all of the extra files that we will be using in our blog. Let’s create two diretories <code class="highlighter-rouge">css</code> and <code class="highlighter-rouge">img</code> which we will use to include our css and images respectively.</p>
+
+<p>Our site is almost ready. Create <code class="highlighter-rouge">404.html</code> in the main directory and include the following:</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code>
+---
+layout: post
+title: Page Does Not Exist...
+permalink: /404.html
+---
+<span class="nt">&lt;p&gt;&lt;a</span> <span class="na">class=</span><span class="s">"post__back"</span> <span class="na">href=</span><span class="s">"/"</span><span class="nt">&gt;</span><span class="ni">&amp;lt;</span>-- back<span class="nt">&lt;/a&gt;&lt;/p&gt;</span>
+<span class="nt">&lt;br&gt;</span>
+<span class="nt">&lt;p&gt;</span>Sorry this page does not exist...<span class="nt">&lt;/p&gt;</span>
+
+</code></pre>
+</div>
+
+<p>Finally create a file <code class="highlighter-rouge">index.md</code> or <code class="highlighter-rouge">index.html</code> in our project directory. This will be the homepage of our site. You can customize it in your desired way. For now I’ll just include a simple text and use the <code class="highlighter-rouge">about</code> layout for the homepage.</p>
+
+<div class="language-html highlighter-rouge"><pre class="highlight"><code>---
+layout: about
+---
+
+Hi, my name is Aadesh Shrestha. I am 21 years old. I like coding. My favorite things are laptop, internet, headphones and an empty room.
+
+# What do you do?
+I write code and push it up on github.
+
+# What programming languages do you use?
+I like Ruby. I'm currently learning Ruby on Rails.
+</code></pre>
+</div>
+
+<p>The site is now successfully completed. Congratulation on making the site from scratch. Feel free to shoot question if you have any at <a href="mailto:aadeshere1@gmail.com">aadeshere1@gmail.com</a></p>
 
 		</div>
 		<hr>
@@ -192,6 +321,10 @@ Basically what we are doing here is that we are looping through each of our navi
 		<p>
 			<i>You might also like...</i> <br>
 
+		
+			
+				<a href="/ruby/2016/06/17/One-liner-server-command-in-ruby.html">One liner server command in ruby</a><br>
+			
 		
 			
 		

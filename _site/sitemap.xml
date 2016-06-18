@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/ruby/2016/06/17/One-liner-server-command-in-ruby.html</loc>
+<lastmod>2016-06-17T00:00:00+05:45</lastmod>
+</url>
+<url>
 <loc>/github/2016/05/16/Free-website-using-jekyll-and-free-github-hosting.html</loc>
 <lastmod>2016-05-16T00:00:00+05:45</lastmod>
 </url>

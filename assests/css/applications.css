@@ -189,6 +189,10 @@ samp {
   font-family: monospace, monospace;
   font-size: 1em; }
 
+code {
+  font-style: italic;
+  color: grey; }
+
 /* Forms
    ========================================================================== */
 /**
