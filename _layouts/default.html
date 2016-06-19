@@ -23,6 +23,14 @@
       ga('send', 'pageview');
     </script>
 
+    <script src="https://teletext.io/js/latest/txt-min.js"></script>
+  <script>
+   var options = {
+    id: '{{ site.teletext }}'
+   };
+   Txt.render(options);
+  </script>
+
   </head>
   <body>
     {% include header.html %}
