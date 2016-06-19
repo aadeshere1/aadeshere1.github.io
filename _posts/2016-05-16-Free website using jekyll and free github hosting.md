@@ -217,7 +217,7 @@ categories: tutorial
 
 This tells to use post layout as our layout for this post, set title of post as 'Name of the post', set creation date to '2016-05-01', include this post in the category 'tutorial'. The post will then be rendered by post layout and the post layout will again be rendered by our default layout.
 
-I've created `_sass` directory to include our stylesheets which will be in `.scss` extension. To learn about Sass-lang, head over to [sass-lang.com](sass-lang.com/documentation/file.SASS_REFERENCE.html). You can find stylesheets in [Github](github.com/aadeshere1) if you'd like to use the styles that I've used in this blog.
+I've created `_sass` directory to include our stylesheets which will be in `.scss` extension. To learn about Sass-lang, head over to [sass-lang.com](sass-lang.com/documentation/file.SASS_REFERENCE.html). You can find stylesheets in [Github](https://gist.github.com/aadeshere1/3bbbcf3e4d479967cd2b8dfa70845439) if you'd like to use the styles that I've used in this blog.
 
 Create a `articles` directory and create a file `index.md` inside `articles`. In the `index.md`, include the following code
 
