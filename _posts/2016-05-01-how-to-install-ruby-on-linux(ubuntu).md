@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to install Ruby on Linux
+category: ruby
 ---
 
 We will be setting up Ruby development environment on Ubuntu 16.04.

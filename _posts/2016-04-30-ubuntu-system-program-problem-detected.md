@@ -1,9 +1,9 @@
 ---
-
+layout: post
 title: Ubuntu system program problem detected[Solved]
 date: 2016-04-30 01:42:30
-categories: ubuntu
-
+category: ubuntu
+class: ubuntu20160430
 ---
 
 I had been getting "System program problem detected" error messages with no further info after upgrading my ubuntu to 15.10

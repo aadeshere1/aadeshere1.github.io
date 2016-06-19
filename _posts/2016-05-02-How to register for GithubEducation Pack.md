@@ -2,7 +2,7 @@
 layout: post
 title: How to register for GithubEducation Pack ?
 date: 2016-05-02
-categories: github
+category: github
 ---
 
 # What is Github ?

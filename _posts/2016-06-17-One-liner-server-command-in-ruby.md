@@ -2,7 +2,7 @@
 layout: post
 title: One liner server command in ruby
 date: 2016-06-17
-categories: ruby
+category: ruby
 ---
 
 Have you ever wondered whether ruby has one liner server command equivalent to the python ?
