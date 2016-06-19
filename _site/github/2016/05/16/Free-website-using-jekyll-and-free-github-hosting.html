@@ -40,7 +40,16 @@
 </header>
 
 
-      	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
+      	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
 		<header>
 			<p class="date">May 16, 2016</p>
 			<h1>Free website using jekyll and free github hosting</h1>
@@ -262,7 +271,7 @@ categories: tutorial
 
 <p>This tells to use post layout as our layout for this post, set title of post as ‘Name of the post’, set creation date to ‘2016-05-01’, include this post in the category ‘tutorial’. The post will then be rendered by post layout and the post layout will again be rendered by our default layout.</p>
 
-<p>I’ve created <code class="highlighter-rouge">_sass</code> directory to include our stylesheets which will be in <code class="highlighter-rouge">.scss</code> extension. To learn about Sass-lang, head over to <a href="sass-lang.com/documentation/file.SASS_REFERENCE.html">sass-lang.com</a>. You can find stylesheets in <a href="github.com/aadeshere1">Github</a> if you’d like to use the styles that I’ve used in this blog.</p>
+<p>I’ve created <code class="highlighter-rouge">_sass</code> directory to include our stylesheets which will be in <code class="highlighter-rouge">.scss</code> extension. To learn about Sass-lang, head over to <a href="sass-lang.com/documentation/file.SASS_REFERENCE.html">sass-lang.com</a>. You can find stylesheets in <a href="https://gist.github.com/aadeshere1/3bbbcf3e4d479967cd2b8dfa70845439">Github</a> if you’d like to use the styles that I’ve used in this blog.</p>
 
 <p>Create a <code class="highlighter-rouge">articles</code> directory and create a file <code class="highlighter-rouge">index.md</code> inside <code class="highlighter-rouge">articles</code>. In the <code class="highlighter-rouge">index.md</code>, include the following code</p>
 
@@ -312,11 +321,12 @@ I like Ruby. I'm currently learning Ruby on Rails.
 </code></pre>
 </div>
 
-<p>The site is now successfully completed. Congratulation on making the site from scratch. Feel free to shoot question if you have any at <a href="mailto:aadeshere1@gmail.com">aadeshere1@gmail.com</a></p>
+<p>The site is now successfully completed. Congratulation on making the site from scratch. Feel free to shoot question if you have any at <a href="mailto:aadeshere1@gmail.com">aadeshere1@gmail.com</a>. We will continue about github hosting in another blog post.</p>
 
 		</div>
 		<hr>
 
+		<div class="fb-like" data-href="/github/2016/05/16/Free-website-using-jekyll-and-free-github-hosting.html" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 		<p>
 			<i>You might also like...</i> <br>
