@@ -27,3 +27,5 @@ If your application is accepted then you will be notified in the email with mess
 otherwise you will get email:
 
 ![Unuccess]({{ site.url }}/assests/img/github/unsuccessful.png)
+
+To know how to get free .me domain, checkout this [tutorial](http://lakshman.me/web-hosting/2016/06/19/free-dot-me-domain-with-github-student-developer-pack.html) 
