@@ -363,6 +363,9 @@ th {
 * {
   box-sizing: border-box; }
 
+.haha {
+  color: brown; }
+
 body {
   font-family: "Inconsolata";
   font-size: 100%;
