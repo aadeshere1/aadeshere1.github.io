@@ -6,7 +6,9 @@ teletext: 47e654e9-b8f3-4c1e-ba85-23c7c013deef
 # baseurl: "/example"
 
 include: [".htaccess"]
-gems: [jekyll-sitemap]
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 #css settings
 sass:
