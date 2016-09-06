@@ -5,7 +5,7 @@ date: 2016-09-02
 category: ruby
 ---
 
-#Cloudflare
+# Cloudflare
 
 Cloudflare, is an U.S. company which provides a content delivery network, internet security services, and distributed DNS services. It sits between visitor and Cloudflare user's hosting provider, acting as a reverse proxy for websites. The use of Cloudflare results in network security, fast page load, availability of sites for mobile.
 
