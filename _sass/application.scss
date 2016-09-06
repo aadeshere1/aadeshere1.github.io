@@ -173,34 +173,34 @@ a {
 	}
 }
 
-input[type="text"], input[type="email"],input[type="password"], textarea {
-	width: 100%;
-	max-width: 100%;
-	min-width: 100%;
-	height: 3em;
-	border: 2px solid $border;
-	padding: 1em;
-	margin: .5em 0 2em 0;
-}
+// input[type="text"], input[type="email"],input[type="password"], textarea {
+// 	width: 100%;
+// 	max-width: 100%;
+// 	min-width: 100%;
+// 	height: 3em;
+// 	border: 2px solid $border;
+// 	padding: 1em;
+// 	margin: .5em 0 2em 0;
+// }
 
 textarea {
 	min-height: 20em;
 }
-
-input[type="submit"], .button {
-	outline: none;
-	background: transparent;
-	border: 2px solid $border;
-	text-align: center;
-	font-size: 1em;
-	color: $dark;
-	text-decoration: none;
-	padding: 1em 2em;
-	&:hover {
-		border: 2px solid $highlight;
-		color: $highlight;
-	}
-}
+//
+// input[type="submit"], .button {
+// 	outline: none;
+// 	background: transparent;
+// 	border: 2px solid $border;
+// 	text-align: center;
+// 	font-size: 1em;
+// 	color: $dark;
+// 	text-decoration: none;
+// 	padding: 1em 2em;
+// 	&:hover {
+// 		border: 2px solid $highlight;
+// 		color: $highlight;
+// 	}
+// }
 
 img {
 	max-width: 760px;
@@ -252,5 +252,6 @@ img {
 @import
 		"welcome",
 		"post_project",
-		"syntax-highlighting"
+		"syntax-highlighting",
+		"form"
 		;
