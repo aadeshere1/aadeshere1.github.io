@@ -1,18 +1,18 @@
 ---
 layout: default
 ---
-	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1094969287205287";
+		fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
 
 	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
 		<header>
-			<div class="fb-save" data-uri="http://{{ site.host }}{{page.url}}" data-size="large"></div>
+			<div class="fb-save" data-uri="{{ post.url }}" data-size="large"></div>
 			<p class="date">{{ page.date | date: '%B %-d, %Y' }}</p>
 			<h1>{{ page.title }}</h1>
 			<hr>
@@ -24,6 +24,10 @@ layout: default
 		<hr>
 
 		<div class="fb-like" data-href="{{page.url}}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+		<hr>
+
+		{% include new-review.html %}
 
 		<p>
 			<i>You might also like...</i> <br>

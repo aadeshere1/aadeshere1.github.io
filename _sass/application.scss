@@ -10,6 +10,11 @@ $link: blue;
 	box-sizing: border-box;
 }
 
+.haha{
+
+	color :brown;
+}
+
 body {
 	// background: #348F50; /* fallback for old browsers */
 	// background: -webkit-linear-gradient(to left, #348F50 , #56B4D3); /* Chrome 10-25, Safari 5.1-6 */
@@ -19,6 +24,15 @@ body {
 	font-weight: 400;
 }
 
+blockquote {
+	font: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+	color: grey;
+}
 
 .wrapper {
 	width: 90%;
