@@ -6,7 +6,7 @@ layout: about
 
 [Homestay Nepal](https://github.com/aadeshere1/homestay_nepal)
 
-[Brushup Online](http://nco.brushuponline.edu.np)
+[Brushup Online](http://brushuponline.edu.np)
 
 [CSIT Association of Nepal](http://www.csitan.org.np)
 
