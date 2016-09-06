@@ -16,3 +16,13 @@ sass:
   sass_dir: _sass
 #Build settings
 markdown: kramdown
+
+staticman:
+  moderation: true
+  allowedFields: ['name', 'comment']
+  branch: master
+  commitMessage: "Hey human, here is a new comment"
+  filename: "entry{@timestamp}"
+  format: yml
+  path: "_comments/reviews"
+  requiredFields: ['name', 'comment']
