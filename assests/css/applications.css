@@ -585,6 +585,8 @@ img {
     margin: 0; }
 #post_show_content hr {
   margin: 3em auto; }
+#post_show_content .align {
+  text-align: justify; }
 
 #share_box {
   text-align: center; }

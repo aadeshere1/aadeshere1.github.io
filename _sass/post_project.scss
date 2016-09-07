@@ -40,6 +40,9 @@
 	hr {
 			margin: 3em auto;
 		}
+	.align {
+		text-align: justify;
+	}
 }
 
 #share_box {
@@ -63,7 +66,7 @@
 }
 // ----- Pagination
 
-.pagination:before, 
+.pagination:before,
 .pagination:after {
 	content: " ";
 	display: table;
