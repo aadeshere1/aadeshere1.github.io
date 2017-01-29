@@ -16,6 +16,7 @@ I have a feeling that this year will bring some joy to my life. To make sure tha
 - complete the project
 - start a youtube channel(can be of any type)
 - make atlease one youtube video weekly
+  (which by the way if you love tech, subscribe to my channel, I might add some videos in future **_wink_** **_wink_**) [TheAdd10](https://www.youtube.com/user/TheAdd10)
 - go visit some more places outside the valley
 
 
