@@ -1,3 +1,10 @@
+---
+layout: post
+title: Debugging Matplotlib
+date: 2017-04-26 01:42:30
+category: python
+---
+
 I've had trouble with `matplotlib` while running a python script.
 
 ```
