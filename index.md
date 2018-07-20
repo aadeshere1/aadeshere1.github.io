@@ -2,7 +2,8 @@
 layout: about
 ---
 
-I write about [Ruby](https://www.ruby-lang.org/en/), [Elixir](https://elixir-lang.org/)
+I write about [Ruby](https://www.ruby-lang.org/en/), [Elixir](https://elixir-lang.org/), and other Tech Stuffs whenever I feel like writing. 
+I intend to write some blogs once in a while.
 
 # What do you do?
 I write code and push it up on github.
