@@ -7,7 +7,7 @@ I intend to write some blogs once in a while.
 
 ### Here are some of my posts till date 
 
-{% for post in site.posts limit: 10 %}
+{% for post in site.posts limit: 5 %}
   * {{ post.date | date: '%Y %b %d'}} >> [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
