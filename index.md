@@ -5,6 +5,12 @@ layout: about
 I write about [Ruby](https://www.ruby-lang.org/en/), [Elixir](https://elixir-lang.org/), some [JS](https://en.wikipedia.org/wiki/JavaScript) and other Tech Stuffs whenever I feel like writing. 
 I intend to write some blogs once in a while.
 
+> Here are the list of my posts till date 
+
+{% for post in site.posts %}
+  * {{ post.date | date: '%Y %b %d'}} >> [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
 
 <!--
 <p>
