@@ -5,7 +5,7 @@ date: 2018-07-29 07:44:00
 category: elixir
 ---
 
-Going through different blogs reading about elixir and solving problems in general, I landed on [this](https://www.careercup.com/question?id=6543214668414976) page. The problem seemed quite easy and I had already solved the same problem in other programming language before. I want to start learning elixir by solving this problem in elixir. 
+Going through different blogs reading about elixir and solving problems in general, I landed on [this](https://www.careercup.com/question?id=6543214668414976){:target="_blank"} page. The problem seemed quite easy and I had already solved the same problem in other programming language before. I want to start learning elixir by solving this problem in elixir. 
 
 The task is to take integer `n` and print  all number from `1 to n` in different lines. If n is divisible by 3, then instead of printing `3`, `Foo` needs to be printed, `Bar` if divisible by 5 and `Foobar` if divisible by 15.
 
