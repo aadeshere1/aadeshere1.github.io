@@ -1,0 +1,18 @@
+---
+label: post
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  default: Debugging matplotlib
+  label: Title
+  type: text
+  hidden: false
+- name: date
+  default: 2017-04-06 18:11:25 +0000
+  label: Date
+  type: datetime
+  hidden: false
+pages:
+- _posts/some-text.md
+- _posts/2017-04-26-debugging-matplotlib.md
