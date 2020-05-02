@@ -18,6 +18,7 @@ layout: default
 			<hr>
 		</header>
 		<div data-txt="{{page.layout}}.{{page.class}}" >
+			{% include toc.html html=content %}
 			{{ content }}
 		</div>
 		<hr>
