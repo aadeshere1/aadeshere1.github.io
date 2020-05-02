@@ -6,7 +6,13 @@
 -->
 <html>
   <head>
-    <title>Stellar by HTML5 UP</title>
+    
+    {% if page.title %}
+      <title>{{ page.title }}</title>
+    {% else %}
+      <title>{{ site.name }}</title>
+    {% endif %}
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/jwarby/pygments-css/master/colorful.css">
