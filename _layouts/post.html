@@ -10,14 +10,14 @@ layout: default
 		fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
 
-	<div id="post_show_content" class="skinny_wrapper wrapper_padding">
+	<div>
 		<header>
 			<div class="fb-save" data-uri="{{ post.url }}" data-size="large"></div>
-			<p class="date">{{ page.date | date: '%B %-d, %Y' }}</p>
+			<p>{{ page.date | date: '%B %-d, %Y' }}</p>
 			<h1>{{ page.title }}</h1>
 			<hr>
 		</header>
-		<div id="content" class="align" data-txt="{{page.layout}}.{{page.class}}" >
+		<div data-txt="{{page.layout}}.{{page.class}}" >
 			{{ content }}
 		</div>
 		<hr>

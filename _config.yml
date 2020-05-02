@@ -12,7 +12,7 @@ gems:
 
 #css settings
 sass:
-  style: :compressed
+  style: compressed
   sass_dir: _sass
 #Build settings
 markdown: kramdown
