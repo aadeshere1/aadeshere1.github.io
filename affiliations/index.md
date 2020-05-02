@@ -22,7 +22,7 @@ layout: about
 
 I have been involved with CSITAN since 2013
 
-- Executive Member for year 2013-2014, 2014-2015
+- Executive Member for year `2013-2014`, `2014-2015`
 - Organizer/Speaker of **Wordpress Workshop** in different colleges and Russian Center of Science and Culture
 - Organizer of **4<sup>th</sup> University Industry Tie Up** , Rastriya Nach Ghar, Jamal
 - Organizer of **5<sup>th</sup> University Industry Tie Up** , Rastriya Nach Ghar, Jamal
