@@ -1,0 +1,65 @@
+I"´<!--
+<p>
+	I intend to post somethings once in a while
+</p>
+
+<body>
+
+
+	<div class="wrapper wrapper_padding clearfix">
+		<div class="col-1 about homepage_content">
+			<h2>About</h2>
+		</div>
+		<div class="col-2 homepage_content">
+			<h2>Stuffs I've Written</h2>
+			<hr>
+
+			
+			<h3><a href="/python/2017/04/26/debugging-matplotlib.html">Debugging Matplotlib</a></h3>
+			<p class="date">2017 Apr 26</p>
+			
+			<h3><a href="/general/2017/01/29/challenge-for-new-year.html">Challenge for the 2017</a></h3>
+			<p class="date">2017 Jan 29</p>
+			
+			<h3><a href="/ruby,%20rails/2016/10/02/How-to-install-Ruby-on-Rails-in-Linux.html">How to install Ruby on Rails in Linux ?</a></h3>
+			<p class="date">2016 Oct 02</p>
+			
+			<h3><a href="/ruby/2016/09/02/serving-content-through-cloudflare-network.html">Serving Content through Cloudflare network</a></h3>
+			<p class="date">2016 Sep 02</p>
+			
+			<h3><a href="/ruby/2016/06/17/One-liner-server-command-in-ruby.html">One liner server command in ruby</a></h3>
+			<p class="date">2016 Jun 17</p>
+			
+			<h3><a href="/github/2016/05/16/Free-website-using-jekyll-and-free-github-hosting.html">Free website using jekyll and free github hosting</a></h3>
+			<p class="date">2016 May 16</p>
+			
+			<h3><a href="/jekyll/2016/05/15/How-to-install-jekyll.html">How to install Jekyll ?</a></h3>
+			<p class="date">2016 May 15</p>
+			
+			<h3><a href="/github/2016/05/02/How-to-register-for-GithubEducation-Pack.html">How to register for GithubEducation Pack ?</a></h3>
+			<p class="date">2016 May 02</p>
+			
+			<h3><a href="/ruby/2016/05/01/how-to-install-ruby-on-linux(ubuntu).html">How to install Ruby on Linux</a></h3>
+			<p class="date">2016 May 01</p>
+			
+			<h3><a href="/ubuntu/2016/04/30/ubuntu-system-program-problem-detected.html">Ubuntu system program problem detected[Solved]</a></h3>
+			<p class="date">2016 Apr 30</p>
+			
+
+		</div>
+		<div class="col-3 homepage_content">
+			<h2>Contributions</h2>
+			<hr>
+
+			
+				<h3>Organizer of Software Freedom Day 2015 at Pulchowk</h3>
+			
+				<h3>Organizer of National Cyber Olympiad - Quiz 2014 at Russian Culture Center</h3>
+			
+				<h3>Organizer of National Cyber Olympiad - Quiz 2015 at Russian Culture Center</h3>
+			
+
+		</div>
+
+	</div> -->
+:ET

@@ -1,0 +1,25 @@
+I"�<h1 id="what-is-github-">What is Github ?</h1>
+<p>GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. It offers all of the distributed revision control and source code management functionality of Git as well as adding its own features.</p>
+
+<p>Github offers both plans for private repositories and free accounts. Free accounts are usually used to host open-source software projects. For personal private repository, one has to pay $7/month. But if you are a student then you can get this for free of cost. Follow the following steps to get yourself a free private repository.</p>
+
+<p><strong>Step 0: If you don’t have a github account, goto <em><a href="https://github.com">Github</a></em> and create an account</strong></p>
+
+<p><strong>Step 1: Goto <a href="https://education.github.com/pack">GitHubEducation</a></strong></p>
+
+<p><strong>Step 2: Click on “Get your pack”</strong></p>
+
+<p><strong>Step 3: Confirm that you are a student <img src="http://localhost:4000/assests/img/github/student.png" alt="Student" /></strong></p>
+
+<p><strong>Step 4: Fill up the given form with school email id or if you don’t have a email provided by school, you can use your Identity card to verify that you are a student.</strong></p>
+
+<p><strong>Step 5: Wait till you get reply from Github Education Team.<img src="http://localhost:4000/assests/img/github/submit_ok.png" alt="Submitted" /></strong></p>
+
+<p>If your application is accepted then you will be notified in the email with message : <img src="http://localhost:4000/assests/img/github/successful.png" alt="Success" /></p>
+
+<p>otherwise you will get email:</p>
+
+<p><img src="http://localhost:4000/assests/img/github/unsuccessful.png" alt="Unuccess" /></p>
+
+<p>To know how to get free .me domain, checkout this <a href="http://lakshman.me/web-hosting/2016/06/19/free-dot-me-domain-with-github-student-developer-pack.html">tutorial</a></p>
+:ET

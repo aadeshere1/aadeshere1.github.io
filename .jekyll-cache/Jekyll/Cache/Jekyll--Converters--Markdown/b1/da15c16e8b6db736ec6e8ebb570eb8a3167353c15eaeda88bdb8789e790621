@@ -1,0 +1,19 @@
+I"5<p>I had been getting “System program problem detected” error messages with no further info after upgrading my ubuntu to 15.10
+<img src="http://localhost:4000/assests/img/ubuntu/problem-detected.png" alt="system program problem detected" /></p>
+
+<p>It turns out that Ubuntu has an error reporting sytem called apport which tries to catch all program crashes in the background and report them to the developers.</p>
+
+<p>Quick fixture: <strong>Remove old crash-reports</strong></p>
+
+<p>See all the old crash-reports in the crash-report directory</p>
+
+<pre><code class="language-bash">ls /var/crash
+</code></pre>
+
+<p>Remove all old crash-reports that might exist in the crash-report directory:</p>
+
+<pre><code class="language-bash">sudo rm /var/crash/*
+</code></pre>
+
+<p>The error messages will disappear on reboot.</p>
+:ET

@@ -1,0 +1,11 @@
+I"�<p>In order to install Ruby on Rails(4.2.6) in your machine, you have to have Ruby installed. You can follow <a href="/ruby/2016/05/01/how-to-install-ruby-on-linux(ubuntu).html">How to install Ruby on linux</a> tutorial to install Ruby.
+After you’ve successfully installed Ruby,</p>
+
+<pre><code class="language-bash">gem install rails -v 4.2.6
+</code></pre>
+
+<p>To install latest version, don’t define the version numbers</p>
+
+<pre><code class="language-bash">gem install rails
+</code></pre>
+:ET

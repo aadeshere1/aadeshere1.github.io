@@ -1,0 +1,22 @@
+I"-<p>I’ve had trouble with <code>matplotlib</code> while running a python script.</p>
+
+<pre><code>import matplotlib.pyplot as plt
+...
+...
+
+plt.show()
+</code></pre>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"># We give it the key and we get the value
+people[&quot;Jake&quot;]
+=&gt; 30
+
+# We can assign the value of the key to something else
+people[&quot;Jake&quot;] = 100
+
+# Now the value is 100 (it used to be 30)
+people[&quot;Jake&quot;]
+=&gt; 100</code></pre></figure>
+
+<p>This bit of code was supposed to show the graph of the image defined but when I ran the code, nothing happened. No errors, no program run. So, I searched on internet and found the solution to it as first including <code>PyQt5 and matplotlib</code> in the beginning and then <code>use('qt5agg')</code></p>
+:ET

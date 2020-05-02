@@ -1,0 +1,42 @@
+I"‡<p>We will be setting up Ruby development environment on Ubuntu 16.04.</p>
+
+<p>Since Ubuntu is one of the easiest linux distribution and is used by many people, we will start with it.</p>
+
+<h3 id="installing-ruby">Installing Ruby</h3>
+<p>Step 1: Install dependencies for Ruby</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">sudo apt update
+sudo apt install git-core curl zlib1g-dev build-essential
+libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3
+libxml2-dev libxslt1-dev libcurl4-openssl-dev python-software-properties
+libffi-dev</code></pre></figure>
+
+<p>We will use <code>rbenv</code> for setting up the environment. For this we will have to setup rbenv first.</p>
+
+<pre><code class="language-bash">cd
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' &gt;&gt; ~/.bashrc
+echo 'eval "$(rbenv init -)"' &gt;&gt; ~/.bashrc
+exec $SHELL
+
+git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' &gt;&gt; ~/.bashrc
+exec $SHELL
+
+git clone https://github.com/rbenv/rbenv-gem-rehash.git ~/.rbenv/plugins/rbenv-gem-rehash
+
+rbenv install 2.3.0
+rbenv global 2.3.0
+ruby -v
+</code></pre>
+
+<p>Then we need to install the bundler which is basically a ruby gem.</p>
+
+<pre><code class="language-bash">gem install bundler
+</code></pre>
+
+<pre><code class="language-bash">rbenv rehash
+</code></pre>
+
+<p>Now, run <code>which ruby</code> in the terminal to check whether ruby has been installed or not. If ruby is successfully installed then, <code>/home/{username}/.rbenv/shims/ruby</code> will be returned.</p>
+:ET

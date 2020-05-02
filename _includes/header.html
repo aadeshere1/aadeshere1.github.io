@@ -1,9 +1,11 @@
-<header id="main_navigation" class="clearfix">
-  <a href="/" class="name">Aadesh Shrestha</a>
-  <nav>
-    {% for item in site.data.navigation %}
-      <a href="{{ item.url }}">{{ item.title }}</a>
-    {% endfor %}
-
-  </nav>
+<header id="header" class="alt">
+  <h1>Aadesh Shrestha</h1>
 </header>
+
+<nav id="nav">
+  <ul>
+    {% for item in site.data.navigation %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
