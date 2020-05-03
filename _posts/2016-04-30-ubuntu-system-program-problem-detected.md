@@ -7,6 +7,7 @@ class: ubuntu20160430
 ---
 
 I had been getting "System program problem detected" error messages with no further info after upgrading my ubuntu to 15.10
+
 ![system program problem detected]({{ site.url }}/assests/img/ubuntu/problem-detected.png)
 
 It turns out that Ubuntu has an error reporting sytem called apport which tries to catch all program crashes in the background and report them to the developers.

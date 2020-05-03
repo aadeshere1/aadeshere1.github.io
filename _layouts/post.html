@@ -1,35 +1,22 @@
 ---
 layout: default
 ---
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1094969287205287";
-		fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
 
-	<div>
-		<header>
-			<div class="fb-save" data-uri="{{ post.url }}" data-size="large"></div>
-			<p>{{ page.date | date: '%B %-d, %Y' }}</p>
-			<h1>{{ page.title }}</h1>
-			<hr>
-		</header>
-		<div data-txt="{{page.layout}}.{{page.class}}" >
-			{% include toc.html html=content %}
-			{{ content }}
-		</div>
+<div>
+	<header>
+		<p>{{ page.date | date: '%B %-d, %Y' }}</p>
+		<h1>{{ page.title }}</h1>
 		<hr>
+	</header>
+	<div data-txt="{{page.layout}}.{{page.class}}" >
+		{% include toc.html html=content %}
+		{{ content }}
+	</div>
 
-		<div class="fb-like" data-href="{{page.url}}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+	<hr>
 
-		<hr>
-
-
-		<p>
-			<i>You might also like...</i> <br>
+	<p>
+		<i>You might also like...</i> <br>
 
 		{% for post in site.posts %}
 			{% if page.title != post.title %}
@@ -37,13 +24,4 @@ layout: default
 			{% endif %}
 		{% endfor%}
 	</p>
-<!--
-		<div id="share_box">
-			<p>Share The Do List</p>
-			<a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/{{ page.url }}"><i class="fa fa-facebook"></i></a>
-			<a href="#"><i class="fa fa-twitter"></i></a>
-			<a href="#"><i class="fa fa-google"></i></a>
-		</div> -->
-
-		<!-- <hr> -->
-	</div>
+</div>
