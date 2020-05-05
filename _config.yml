@@ -26,3 +26,10 @@ staticman:
   format: yml
   path: "_comments/reviews"
   requiredFields: ['name', 'comment']
+
+facebook_url: "https://www.facebook.com/aadeshere1"
+twitter_url: "https://twitter.com/aadeshere1"
+instagram_url: "https://www.instagram.com/smilingaadesh/"
+linkedin_url: 
+googleplus_url:
+pinterest_url:

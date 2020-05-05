@@ -5,6 +5,7 @@ layout: default
 <div>
 	<header>
 		<p>{{ page.date | date: '%B %-d, %Y' }}</p>
+		{% include reading-time.html %}
 		<h1>{{ page.title }}</h1>
 		<hr>
 	</header>

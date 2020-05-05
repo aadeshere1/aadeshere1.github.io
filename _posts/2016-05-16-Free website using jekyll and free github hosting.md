@@ -12,7 +12,7 @@ In this lesson, we will learn how to get started with building a website with Je
 - [Jekyll]({% post_url 2016-05-15-How to install jekyll %})
 
 ## What will we be building
-We will be building a clone of [this](http://www.aadeshshrestha.me) site.
+We will be building a clone of [this](https://blog.aadeshshrestha.com.np) site.
 
 ## What we won't be doing
 We will not be styling the site.
