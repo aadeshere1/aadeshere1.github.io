@@ -31,4 +31,4 @@ I have been involved with CSITAN since 2013
 
 **Open Source Community Nepal**
 
-- Organizer of **Software Freedom Day 2015**, Nepal Engineers Association, Pulchowk
+- Organizer of [**Software Freedom Day 2015**](http://wiki.softwarefreedomday.org/2015/Nepal/Kathmandu/FOSS%20Nepal%20Official), Nepal Engineers Association, Pulchowk
