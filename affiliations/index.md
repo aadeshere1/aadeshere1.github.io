@@ -3,14 +3,14 @@ layout: about
 ---
 
 
-**ChuloNetwork**
+[**ChuloNetwork**](http://chulonetwork.com/)
 
 - Co-founder of Company
 - Organizer of **Online Workshop in Nepal**
 
 ---
 
-**Brushup Online**
+[**Brushup Online**](http://brushuponline.edu.np/)
 
 - Organizer of **National Cyber Olympiad - 2014**, Russian Center of Science and Culture
 - Organizer of **National Cyber Olympiad - 2015**, Russian Center of Science and Culture
@@ -18,7 +18,7 @@ layout: about
 
 ---
 
-**Computer Science and Information Technology Association of Nepal**
+[**Computer Science and Information Technology Association of Nepal**](https://csitan.org.np/)
 
 I have been involved with CSITAN since 2013
 
