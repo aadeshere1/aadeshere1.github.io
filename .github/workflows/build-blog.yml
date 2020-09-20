@@ -58,3 +58,4 @@ jobs:
           branch: gh-pages
           file_pattern: _posts/*
           commit_user_name: GitHub Auto Commit Bot
+          push_options: '--force'
