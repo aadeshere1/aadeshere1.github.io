@@ -22,6 +22,8 @@ module Jekyll
       cards = Trello::List.find("5f6622373d98f9625efa41f6").cards
       cards.each do |card|
         # binding.pry
+        labels = card.labels.map { |label| label.color}
+        next unless labels.include?("green")
         due_on = card.due&.to_date.to_s 
         slug = card.name.split.join("-").downcase
         created_on = DateTime.strptime(card.id[0..7].to_i(16).to_s, '%s').to_date.to_s
