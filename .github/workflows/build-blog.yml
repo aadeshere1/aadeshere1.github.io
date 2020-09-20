@@ -3,7 +3,9 @@ name: Build blogs from Trello Card
 on:
   push:
     branches:
-      - feature/trello
+      - gh-pages
+  schedule:
+    - cron: '* */24 * * *'
 
 jobs:
   build-and-deploy:
