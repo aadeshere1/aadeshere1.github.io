@@ -41,7 +41,7 @@ jobs:
       - name: rm posts
         run: |
           cd _posts
-          rm *
+          rm *.md
           cd ..
       
       - uses: stefanzweifel/git-auto-commit-action@v4
