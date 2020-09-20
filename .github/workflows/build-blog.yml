@@ -50,3 +50,7 @@ jobs:
           branch: feature/trello
           file_pattern: _posts/*
           commit_user_name: GitHub Auto Commit Bot
+      
+      - name: Build posts
+        run: |
+          bundle exec jekyll build
