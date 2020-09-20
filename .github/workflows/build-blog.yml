@@ -1,0 +1,55 @@
+name: Build blogs from Trello Card
+
+on:
+  push:
+    branches:
+      - feature/trello
+
+jobs:
+  build-and-deploy:
+    name: Build and commit on same branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v2
+      
+      - name: create .env file
+        run: echo "${{ secrets.DOT_ENV }}" > .env
+      
+      - name: Setup ruby 
+        run: echo "::set-output name=RUBY_VERSION::$(cat .ruby-version)"
+        id: rbenv
+      
+      - name: Use Ruby ${{ steps.rbenv.outputs.RUBY_VERSION }}
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ steps.rbenv.outputs.RUBY_VERSION }}
+      
+      - name: Use cache gems
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gem-
+
+      - name: bundle install
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3 --path vendor/bundle
+      
+      # - name: rm posts
+      #   run: |
+      #     cd _posts
+      #     rm *.md
+      #     cd ..
+      - name: Build posts
+        run: |
+          bundle exec jekyll build
+          
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Remove posts
+          branch: feature/trello
+          file_pattern: _posts/*
+          commit_user_name: GitHub Auto Commit Bot
