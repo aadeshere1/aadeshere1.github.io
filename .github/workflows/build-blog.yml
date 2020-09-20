@@ -38,15 +38,18 @@ jobs:
           gem install bundler
           bundle install --jobs 4 --retry 3 --path vendor/bundle
       
-      # - name: rm posts
-      #   run: |
-      #     cd _posts
-      #     rm *.md
-      #     cd ..
+      - name: rm posts
+        run: |
+          cp ./scripts/rmposts.sh _posts/rmposts.sh
+          chmod +x _posts/rmposts.sh
+          cd _posts
+          sh rmposts.sh
+          rm rmposts.sh
+          cd ..
       - name: Build posts
         run: |
           bundle exec jekyll build
-          
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Remove posts
