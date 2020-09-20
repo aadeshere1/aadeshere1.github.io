@@ -2,7 +2,6 @@
 layout: post
 title: Serving Content through Cloudflare network
 date: 2016-09-02
-category: ruby
 ---
 
 # Cloudflare
@@ -15,7 +14,6 @@ I'd like to show you how I use DNS service provided by Cloudflare with my domain
 It will take about one minute to scan DNS records of your site.
 
 **Step 2: Setup the CNAME, A records for your site** | Example: I'm using A records to point to github as I'm using github hosting.
-
 ![Example]({{ site.url }}/assests/img/cloudflare/cloudflare_setting.png)
 
 
@@ -23,5 +21,5 @@ It will take about one minute to scan DNS records of your site.
 
 
 **Step 4: Change the nameservers to the nameservers provided by cloudflare**
-
 ![Nameserver]({{ site.url }}/assests/img/cloudflare/ns.png)
+        

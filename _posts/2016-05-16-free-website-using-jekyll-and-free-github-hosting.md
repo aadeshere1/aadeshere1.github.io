@@ -2,17 +2,16 @@
 layout: post
 title: Free website using jekyll and free github hosting
 date: 2016-05-16
-category: github
 ---
 
 In this lesson, we will learn how to get started with building a website with Jekyll, which is just a gem of Ruby. In other words, Jekyll is a simple static-site generator built in Ruby. It is a tool which lets you have all the cool features of a full-blown CMS without having to worry about managing a database.The benefit of using Jekyll is that hosting is extremely easy and scalable. You will be just managing bunch of files (in our case, we will be using github gh-pages).
 
 ## System Requirements
-- [Ruby]({% post_url 2016-05-01-how-to-install-ruby-on-linux(ubuntu) %})
-- [Jekyll]({% post_url 2016-05-15-How to install jekyll %})
+- [Ruby](https://blog.aadeshshrestha.com.np/ruby/2016/05/01/how-to-install-ruby-on-linux(ubuntu).html)
+- [Jekyll](https://jekyllrb.com)
 
 ## What will we be building
-We will be building a clone of [this](https://blog.aadeshshrestha.com.np) site.
+We will be building a clone of [this](http://www.aadeshshrestha.me) site.
 
 ## What we won't be doing
 We will not be styling the site.
@@ -268,3 +267,4 @@ I like Ruby. I'm currently learning Ruby on Rails.
 ```
 
 The site is now successfully completed. Congratulation on making the site from scratch. Feel free to shoot question if you have any at <a href="mailto:aadeshere1@gmail.com">aadeshere1@gmail.com</a>. We will continue about github hosting in another blog post.
+        

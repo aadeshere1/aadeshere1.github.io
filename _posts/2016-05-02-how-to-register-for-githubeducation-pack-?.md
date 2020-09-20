@@ -2,7 +2,6 @@
 layout: post
 title: How to register for GithubEducation Pack ?
 date: 2016-05-02
-category: github
 ---
 
 # What is Github ?
@@ -16,20 +15,17 @@ Github offers both plans for private repositories and free accounts. Free accoun
 
 **Step 2: Click on "Get your pack"**
 
-**Step 3: Confirm that you are a student**
-
-![Student]({{ site.url }}/assests/img/github/student.png)
+**Step 3: Confirm that you are a student ![Student]({{ site.url }}/assests/img/github/student.png)**
 
 **Step 4: Fill up the given form with school email id or if you don't have a email provided by school, you can use your Identity card to verify that you are a student.**
 
 **Step 5: Wait till you get reply from Github Education Team.![Submitted]({{ site.url }}/assests/img/github/submit_ok.png)**
 
-If your application is accepted then you will be notified in the email with message : 
-
-![Success]({{ site.url }}/assests/img/github/successful.png)
+If your application is accepted then you will be notified in the email with message : ![Success]({{ site.url }}/assests/img/github/successful.png)
 
 otherwise you will get email:
 
 ![Unuccess]({{ site.url }}/assests/img/github/unsuccessful.png)
 
 To know how to get free .me domain, checkout this [tutorial](http://lakshman.me/web-hosting/2016/06/19/free-dot-me-domain-with-github-student-developer-pack.html)
+        

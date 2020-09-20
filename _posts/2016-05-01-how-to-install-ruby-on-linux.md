@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to install Ruby on Linux
-category: ruby
+date: 2016-05-01
 ---
 
 We will be setting up Ruby development environment on Ubuntu 16.04.
@@ -50,3 +50,4 @@ rbenv rehash
 ```
 
 Now, run ```which ruby``` in the terminal to check whether ruby has been installed or not. If ruby is successfully installed then, ```/home/{username}/.rbenv/shims/ruby``` will be returned.
+        

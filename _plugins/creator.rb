@@ -18,8 +18,32 @@ module Jekyll
 
     def generate(site)
       setup
-      binding.pry
-      puts "hello world"
+      
+      cards = Trello::List.find("5f6622373d98f9625efa41f6").cards
+      cards.each do |card|
+        # binding.pry
+        due_on = card.due&.to_date.to_s 
+        slug = card.name.split.join("-").downcase
+        created_on = DateTime.strptime(card.id[0..7].to_i(16).to_s, '%s').to_date.to_s
+        article_date = due_on.empty? ? created_on : due_on
+        content = """---
+layout: post
+title: #{card.name}
+date: #{article_date}
+---
+
+#{card.desc}
+        """
+        file = File.open("./_posts/#{article_date}-#{slug}.md", "w+") {|f| f.write(content) }
+        # binding.pry
+      end
     end
   end
 end
+
+
+# timestamp
+hex = "4d5ea62fene3ne43"
+# date_hex = hex[0..7]
+# date_int =  date_hex.to_i(16)
+# DateTime.strptime(hex[0..7].to_i(16).to_s, '%s')

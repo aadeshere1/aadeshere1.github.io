@@ -2,7 +2,6 @@
 layout: post
 title: One liner server command in ruby
 date: 2016-06-17
-category: ruby
 ---
 
 Have you ever wondered whether ruby has one liner server command equivalent to the python ?
@@ -15,3 +14,4 @@ ruby -run -e httpd . -p 5000
 ```
 
 It will start a webserver runnning on your machine at port 5000. No extra gem is needed for this to run.
+        
