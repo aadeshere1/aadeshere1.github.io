@@ -43,14 +43,13 @@ jobs:
       #     cd _posts
       #     rm *.md
       #     cd ..
-      
+      - name: Build posts
+        run: |
+          bundle exec jekyll build
+          
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Remove posts
           branch: feature/trello
           file_pattern: _posts/*
           commit_user_name: GitHub Auto Commit Bot
-      
-      - name: Build posts
-        run: |
-          bundle exec jekyll build
