@@ -4,3 +4,4 @@ _site
 **/**/*.tfvars
 counter/terraform/.terraform
 notes/
+.env
