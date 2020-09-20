@@ -38,11 +38,11 @@ jobs:
           gem install bundler
           bundle install --jobs 4 --retry 3 --path vendor/bundle
       
-      - name: rm posts
-        run: |
-          cd _posts
-          rm *.md
-          cd ..
+      # - name: rm posts
+      #   run: |
+      #     cd _posts
+      #     rm *.md
+      #     cd ..
       
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
