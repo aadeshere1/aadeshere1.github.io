@@ -50,10 +50,9 @@ jobs:
         run: |
           bundle exec jekyll build
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: EndBug/add-and-commit@v7
         with:
-          commit_message: Remove posts
+          add: '*.md'
+          author_name: Aadesh Shrestha
           branch: gh-pages
-          file_pattern: _posts/*
-          commit_user_name: GitHub Auto Commit Bot
-          push_options: '--force'
+          message: 'auto commit'
