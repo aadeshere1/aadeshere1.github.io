@@ -6,6 +6,7 @@ on:
       - gh-pages
   schedule:
     - cron: '* */24 * * *'
+  workflow_dispatch:
 
 jobs:
   build-and-deploy:
