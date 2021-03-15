@@ -14,4 +14,7 @@ Communication done through written records like emails, letters, notices and so 
 
 ## Non-verbal Communication
 Managers must also take special care of their body language, facial expressions, gestures. etc for effective communication. If a manager has a frown she or he is not liked and respected by the employees. 
+
+---
+Next: [7 Cs of Effective Communication](https://blog.aadeshshrestha.com.np/2021/03/14/7-cs-of-effective-communication.html)
         

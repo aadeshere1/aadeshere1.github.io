@@ -16,4 +16,7 @@ To perform the basic functions of management - planning, organizing, motivating 
 8. Corporate image
 9. Facilitate innovation
 10. Ensure transparency
+
+---
+Next: [Need for communication](https://blog.aadeshshrestha.com.np/2021/03/14/need-for-communication.html)
         

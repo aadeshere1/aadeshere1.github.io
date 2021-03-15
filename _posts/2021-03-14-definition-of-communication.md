@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Definition of Communication
-date: 2021-03-15
+date: 2021-03-14
 ---
 
 The word "communication" has been derived from the latin word communis which means to share or "common". Communication may, therefore, be defined as sharing information, ideas, knowledge and meaning between senders and receivers, using written, oral, visual, or electronic channels. The essence of communication is sharing-providing data, information and insights in an exchange that benefits both senders and receivers.
@@ -14,4 +14,7 @@ Managerial Communication means the sharing of knowledge, ideas, information, opi
 - *Interpersonal Communication* : generally takes place between two or more individual at the workplace.
 
 - *Organizational Communication* : takes place at all levels in the organization.
+
+---
+Next: [Types of Organizational Communication](https://blog.aadeshshrestha.com.np/2021/03/14/types-of-organizational-communication.html)
         

@@ -29,4 +29,7 @@ date: 2021-03-14
 - Greater employee engagement with their work, leading to higher employee satisfaction and lower employee turnover.
 - Better financial results and higher return for investors. 
 - It strengthens the connection between a company and all its stakeholders. If communication breaks down, the results can be anything from time wasting to tragic. Top managers spend as much as 85 percent of their time communicating with others.
+
+---
+Next: [Purpose of Business Communication](https://blog.aadeshshrestha.com.np/2021/03/14/purpose-of-business-communication.html)
         

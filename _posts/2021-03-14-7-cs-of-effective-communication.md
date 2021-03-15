@@ -14,4 +14,7 @@ The 7 C's of Effective Communication are as follows.
 6. Concreteness - It should be to the point supported by facts and figures in a very easy language.
 7. Courtesy - This implies that both sender and receiver should have good terms with each other so as to understand each other's thoughts and feelings and respect them. 
 
+---
+Next: [Characteristics and Benefits of Effective Communication](https://blog.aadeshshrestha.com.np/2021/03/14/characteristics-and-benefits-of-effective-communication.html)
+
         

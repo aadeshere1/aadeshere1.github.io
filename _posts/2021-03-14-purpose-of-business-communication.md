@@ -17,4 +17,7 @@ Following are the purposes of business communications.
 9. To improve morale (amount of confidence and enthusiasm)
 10. To motivate people.
 11. To improve discipline (oral and written communication)
+
+---
+Next: [Importance of Communication](https://blog.aadeshshrestha.com.np/2021/03/14/importance-of-communication.html)
         

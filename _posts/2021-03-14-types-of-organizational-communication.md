@@ -22,4 +22,6 @@ These four types are called the direction of communication flow or paths of comm
 ## Informal Communication
 This is also referred to as grapevine or the rumor mill. Employees also communicate with each other just to know what is happening around. Such type of communication is called as informal communication and it has nothing to do with designations, hierarchy and so on. 
 
+---
+Next: [Ways of Managerial Communication](https://blog.aadeshshrestha.com.np/2021/03/14/ways-of-managerial-communication.html)
         
