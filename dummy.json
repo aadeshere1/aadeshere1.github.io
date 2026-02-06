@@ -1122,6 +1122,4372 @@
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
     },
     {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 13.7,
+      "rating": 3.19,
+      "stock": 97,
+      "tags": [
+        "meat"
+      ],
+      "sku": "GRO-BRD-CHI-019",
+      "weight": 1,
+      "dimensions": {
+        "width": 11.03,
+        "height": 22.11,
+        "depth": 16.01
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 month",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Mateo Bennett",
+          "reviewerEmail": "mateo.bennett@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Jackson Evans",
+          "reviewerEmail": "jackson.evans@x.dummyjson.com"
+        },
+        {
+          "rating": 3,
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Sadie Morales",
+          "reviewerEmail": "sadie.morales@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "7 days return policy",
+      "minimumOrderQuantity": 22,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "8829514594521",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp",
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/2.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
       "id": 20,
       "title": "Cooking Oil",
       "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
